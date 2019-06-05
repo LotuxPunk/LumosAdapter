@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumosAdapterConsole", "Lumo
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LumosSetup", "LumosSetup\LumosSetup.vdproj", "{3F4EF4DD-8AAE-4D1F-ABFA-4C4D9D0C520F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6444F02F-934F-44E0-B05C-C49FCE421748}"
-	ProjectSection(SolutionItems) = preProject
-		Icon1.ico = Icon1.ico
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
